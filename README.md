@@ -1,12 +1,18 @@
 <h1 align="left">Hi 👋, My name is Anuwat Thannop</h1>
 <h3 align="left">I’m a third-year university student and a motivated full-stack developer.
-I love solving problems, learning by building, and improving through feedback. 
-  My interests include Software Engineering, Software Testing, and Software Development — especially creating practical solutions that make things simpler and more efficient. 
+
+   
   
   I enjoy working in teams, sharing ideas, and learning from others. I’m curious, patient, and not afraid to refactor my code when I find a better approach. 
   🌍 I’m based in Bangkok, Thailand 
   ✉️ You can contact me at tutorship57@gmail.com 
   👥 I’m looking to collaborate on Software Development, Software Testing, and Automated Testing</h3>
+<h3>I love solving problems, learning by building, and improving through feedback. </h3>
+<h3>My interests include Software Engineering, Software Testing, and Software Development — especially creating practical solutions that make things simpler and more efficient. </h3>
+<h3>I enjoy working in teams, sharing ideas, and learning from others. I’m curious, patient, and not afraid to refactor my code when I find a better approach. </h3>
+🌍 I’m based in Bangkok, Thailand 
+✉️ You can contact me at tutorship57@gmail.com 
+👥 I’m looking to collaborate on Software Development, Software Testing, and Automated Testing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
