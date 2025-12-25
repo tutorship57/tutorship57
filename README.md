@@ -18,6 +18,6 @@ I enjoy working in teams, sharing ideas, and learning from others. I’m curious
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,html,css,bootstrap,tailwind,js,ts,react,nodejs,express,mysql,firebase,postgres,prisma,rabbitmq,redis,git,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,html,css,bootstrap,tailwind,js,ts,react,nodejs,express,mysql,firebase,postgres,prisma,rabbitmq,redis,git,postman,docker,figma" />
 </p>
 
