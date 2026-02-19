@@ -6,7 +6,7 @@ My interests include Software Engineering, Software Testing, and Software Develo
 I enjoy working in teams, sharing ideas, and learning from others. I’m curious, patient, and not afraid to refactor my code when I find a better approach.<br/>
 
 - 🌍 I’m based in Bangkok, Thailand<br/>
-- ✉️ You can contact me at **tutorship57@gmail.com**<br/>
+- ✉️ You can contact me at **anuwat.thannop03@gmail.com**<br/>
 - 👥 I’m looking to collaborate on Software Development, Software Testing, and Automated Testing
 
 <h3 align="left">Connect with me:</h3>
