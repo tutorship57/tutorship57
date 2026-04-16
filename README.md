@@ -10,10 +10,11 @@ I enjoy working in teams, sharing ideas, and learning from others. I’m curious
 - 👥 I’m looking to collaborate on Software Development, Software Testing, and Automated Testing
 
 <h3 align="left">Connect with me:</h3>
-<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+<p align="left">
   <a href="https://linkedin.com/in/anuwat%20thannop" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuwat thannop" height="30" width="40" /></a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://fb.com/anuwat%20thannop" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anuwat thannop" height="30" width="40" /></a>
-</div>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
