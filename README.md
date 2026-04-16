@@ -10,8 +10,12 @@ I enjoy working in teams, sharing ideas, and learning from others. I’m curious
 - 👥 I’m looking to collaborate on Software Development, Software Testing, and Automated Testing
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/anuwat thannop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuwat thannop" height="30" width="40" /></a>
-<a href="https://fb.com/anuwat thannop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anuwat thannop" height="30" width="40" /></a>
+<div>
+  <a href="https://linkedin.com/in/anuwat thannop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuwat thannop" height="30" width="40" /></a>
+</div>
+<div>
+  <a href="https://fb.com/anuwat thannop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anuwat thannop" height="30" width="40" /></a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 
